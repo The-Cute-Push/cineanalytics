@@ -1,0 +1,7 @@
+/movies.csv
+/ratings.csv
+/.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
